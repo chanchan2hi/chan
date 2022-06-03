@@ -1,0 +1,49 @@
+body {
+    margin: 0 auto; 
+    }
+#menu{
+        float:right;
+        margin:10px;
+    }
+select{
+    width:300px;
+    margin: 8px 0;
+    padding: 10px 10px;
+    border:1px solid green;
+
+}
+header{
+    margin:20px;
+    padding-bottom:30px;
+    text-align:center;
+}
+header #header_content{
+    padding-bottom:30px;
+    border-bottom:solid 1px #cccccc;
+ font-size: 40px;
+font-weight: bold;
+font-family:"fantasy"; 
+color:#204438 
+
+}
+#picture{
+    position:absolute;
+    left:40%
+}
+#intro{
+    padding-top:4%;
+    position: absolute;
+   left: 20%; top: 60%;
+   font-family:"fantasy";
+   color:#204438;
+   font-size: 15px;
+   
+}
+
+footer{
+    bottom:10%;
+    text-align:center;
+    font-size:90%;
+    padding-top:10%;
+    
+}

@@ -1,0 +1,25 @@
+#menu{
+    float:right;
+    padding:10px;
+   }  
+		h3{text-align:center;}
+        body{ margin: 0 auto; width:70%}
+		table,td,th{border: dashed 1px #cccccc; }
+		table{border-collapse: collapse;
+		      }
+		tr{height: 40px; text-align: center;}
+		tr,th{padding: 5px;}
+		#table_title{height: 30px;
+			background-color: #eeeeee;}
+		#col1{
+			width: 100px;
+		}
+		#col2{
+			width: 150px;
+		}
+		#col3{
+			width: 120px;
+		}
+		#col4{
+			width: 100px;
+		}

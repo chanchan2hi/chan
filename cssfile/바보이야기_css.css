@@ -1,0 +1,22 @@
+#sbody{
+  
+    background-color:#85A293 ;
+}
+#comment{
+     list-style-type:none;
+     border:solid 1px #3F4F47;
+      background-color:#f6fdf7;
+      margin:10px;
+      padding:10px;
+      line-height:150%;
+      width:60%;
+ }
+ 
+#menu{
+    float:right;
+    padding:10px;
+}
+ #visit_info{   
+     padding-bottom:5px;
+     border-bottom:solid 1px #cccccc;
+ }
